@@ -1,6 +1,8 @@
 ## Bienvenidos a mi pagina web
 
-Hola que tal me llamo Jonathan tengo 18 años estudio en el Cetis #32 me gustan los perros, leer y escribir historias en una app/pagina web, el ingles, jugar basquetbol, los videojuegos de guerra y de disparos, las peliculas de terror y animadas.
+Hola que tal me llamo Jonathan tengo 18 años estudio en el Cetis #32 me gustan los perros, el ingles, jugar basquetbol, los videojuegos de guerra y de disparos, las peliculas de terror y animadas. Me gustan leer y escribir historias, actualmente estoy escribiendo mi 6ta historia en una aplicación llamada Wattpad, actualmente estoy en ultimo semestre de preparatoria y mis planes de vida es que terminar la preparatoria y ponerme a trabajar para ahorrar de una vez e invertirlo en un departamento e independizarme para tener una casa propia junto a mis perros y mi pareja 
+
+Pueden tener un vistazo de mi maestro y visitar su pagina web dandole [editor on GitHub](https://colegioiberoamericano.github.io/#about)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Haska280/Haska280.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
