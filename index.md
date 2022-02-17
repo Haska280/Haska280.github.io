@@ -1,6 +1,6 @@
 ## Bienvenidos a mi pagina web
 
-Hola que tal me llamo Jonathan tengo 18 años estudio en el Cetis #32 me gustan los perros, leer y escribir historias en una app/pagina web, el ingles, jugar basquetbol, los videojuegos de guerra y de disparos, las peliculas de terror.
+Hola que tal me llamo Jonathan tengo 18 años estudio en el Cetis #32 me gustan los perros, leer y escribir historias en una app/pagina web, el ingles, jugar basquetbol, los videojuegos de guerra y de disparos, las peliculas de terror y animadas.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Haska280/Haska280.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
