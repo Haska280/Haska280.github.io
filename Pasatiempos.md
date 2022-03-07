@@ -1,4 +1,4 @@
-## [Mis gustos](Misgustos.md) [Pasatiempos](Pasatiempos.md)
+## [Mis gustos](Misgustos.md) [Pasatiempos](Pasatiempos.md) [Musica](Musica.md)
 Mis pasatiempos serian, leer y escribir historias basado en cosas que me gustan mucho como series, peliculas oh historias propias basadas en mi propia imaginación y concepto 
 
 ## Habilidades
